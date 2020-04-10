@@ -1,27 +1,47 @@
-# Goals
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+# Project Name
+Goals
 
-## Development server
+## Author
+Collins Kiprutoh
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Project Description
 
-## Code scaffolding
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6. It allow it users to be able to write goals theyaim at achieving and be able to create new goals to be able to be accomplished in the near future. Also one can be able to delete goal and be able to view whether he or she completed the target goals on time. It also allows its users to be able to know when they completed the goals.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies used
+ - HTML5
+ - CSS3
+ - Bootstrap
+ - Typescript
+ - Angular8
 
-## Build
+ ## Behaviour Driven Development
+  1. Create a new goal.
+  2. View goals
+  3. Delete a goal
+  4. View when the goals were completed
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+ ## Project Live Link
+    https://wizzicollo.github.io/Goals/
 
-## Running unit tests
+ ## Development server
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Running end-to-end tests
+ ## Contact Information
+    - Email: kiprutohcollo@gmail.com
+    - Phone No. : +254 741280908
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+ ## License 
+  licensed under[MIT license](license).
 
-## Further help
+ ## Copyright Information
+   © 2020 Copyright : Collins Kiprutoh
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+
+
+
